@@ -21,4 +21,5 @@ The Homepage template offers a sleek and minimalist design, making it suitable f
 3. Update the links and contact details to direct users to your social media profiles or contact channels.
 4. Save and deploy the homepage to your web hosting service or use it locally as needed.
 
+![image](https://github.com/Adityas266/HomePage_1/assets/108875499/f01f7b5d-243d-431e-805c-5749109a7fe5)
 
